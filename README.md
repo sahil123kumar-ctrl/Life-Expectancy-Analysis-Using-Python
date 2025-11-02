@@ -94,7 +94,7 @@ The project includes visual analyses for:
 - **IDE/Tools:** Jupyter Notebook, Power BI (for additional visuals)
 
 ---
-## 📜 Conclusion
+##  Conclusion
 Life expectancy is influenced by **multiple interconnected factors** — education, income, healthcare, and disease control.  
 Focusing on **resource access, health equity, and preventive healthcare** can significantly enhance longevity across the world.
 
