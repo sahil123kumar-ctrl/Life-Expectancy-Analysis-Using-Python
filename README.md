@@ -34,7 +34,7 @@ The main goal of this project is to **understand the major factors affecting lif
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 Steps performed:
 1. Data loading and inspection  
 2. Dropping duplicate rows/columns  
@@ -44,7 +44,7 @@ Steps performed:
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 Major findings:
 - **Schooling** and **Income Composition** show the **strongest positive correlation** with life expectancy.  
 - **Adult mortality**, **infant deaths**, and **HIV/AIDS** rates have a **strong negative impact**.  
@@ -76,7 +76,7 @@ The project includes visual analyses for:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 1. Invest in **education, income growth, and employment opportunities**.  
 2. Expand **vaccination and disease prevention programs**.  
 3. Improve **child nutrition and maternal health** to reduce under-five deaths.  
